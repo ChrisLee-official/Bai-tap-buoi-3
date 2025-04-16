@@ -1,0 +1,12 @@
+
+.content {
+    max-width: 800px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote, p , ul, li {
+    margin: 60px auto
+}
